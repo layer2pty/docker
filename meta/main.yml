@@ -1,0 +1,17 @@
+---
+galaxy_info:
+  author: "Sergio Borges"
+  company: layer2
+  license: BSD
+  min_ansible_version: 1.9
+  platforms:
+    - name: EL
+      versions:
+        - 7
+    - name: Ubuntu
+      versions:
+        - trusty
+        - xenial
+  categories:
+    - docker
+dependencies: []
