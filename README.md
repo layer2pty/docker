@@ -28,7 +28,7 @@ Ansible role to install and configure Docker engine
     docker_opts: []
 
   roles:
-    - wunzeco.docker
+    - layer2pty.docker
 ```
 
 
